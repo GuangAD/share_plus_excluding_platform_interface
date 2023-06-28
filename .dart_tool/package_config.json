@@ -290,13 +290,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "share_plus_platform_interface",
+      "name": "share_plus_excluding_platform_interface",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-06-28T07:28:29.062459Z",
+  "generated": "2023-06-28T08:40:48.163912Z",
   "generator": "pub",
   "generatorVersion": "2.16.2"
 }

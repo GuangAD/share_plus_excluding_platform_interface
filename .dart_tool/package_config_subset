@@ -190,7 +190,7 @@ flutter_test
 2.12
 file:///D:/Program%20Files/flutter/packages/flutter_test/
 file:///D:/Program%20Files/flutter/packages/flutter_test/lib/
-share_plus_platform_interface
+share_plus_excluding_platform_interface
 2.12
 file:///D:/worktest/flutter/share_plus_excluding_platform_interface/
 file:///D:/worktest/flutter/share_plus_excluding_platform_interface/lib/
